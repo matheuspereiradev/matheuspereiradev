@@ -9,3 +9,5 @@
   <a href="https://instagram.com/amatheuslp" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/instagram.svg" alt="matheus" height="30" width="40" /></a>
   <a href="https://wa.me/5588992424740" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/whatsapp.svg" alt="matheus" height="30" width="40" /></a>
 </p>
+
+[![trophy](https://github-profile-trophy.vercel.app/?username=matheuspereiradev&title=Commit,Followers,Repositories)](https://github.com/ryo-ma/github-profile-trophy)
